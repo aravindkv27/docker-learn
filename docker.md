@@ -33,8 +33,8 @@ The Docker server process responsible for pulling, pushing, and building the ima
 ## Permission Issues
 
 ```
-WARNING: Error loading config file: /home/user/.docker/config.json -
-stat /home/user/.docker/config.json: permission denied
+    WARNING: Error loading config file: /home/user/.docker/config.json -
+    stat /home/user/.docker/config.json: permission denied
 ```
 
 To solve the error
